@@ -1,4 +1,4 @@
-### Hola les dejo una pqueña encuesta para su uso👋
+### Hola les dejo una pequeña encuesta para su uso👋
 
 <!--
 **JEAN2812/JEAN2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
